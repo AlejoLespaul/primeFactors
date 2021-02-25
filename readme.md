@@ -1,6 +1,15 @@
 # Code Challenge: Prime Factors
 
-Hallar los factores primos de un número. 
+Hallar los factores primos de un número.
+```
+Ejemplo con numero 12:
+
+12|2
+ 6|2
+ 3|3
+ 1|
+```
+
 
 Tu resultado debe ser una cadena.
 
